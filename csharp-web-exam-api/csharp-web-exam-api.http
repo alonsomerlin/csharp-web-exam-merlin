@@ -1,0 +1,6 @@
+@csharp_web_exam_api_HostAddress = http://localhost:5004
+
+GET {{csharp_web_exam_api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

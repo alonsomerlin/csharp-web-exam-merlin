@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "csharp-web-exam-api", "csharp-web-exam-api\csharp-web-exam-api.csproj", "{EAB319A0-709A-4B80-A7ED-24D09806C4C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp-web-exam", "csharp-web-exam\csharp-web-exam.csproj", "{D73F7448-2945-47DB-92E1-E802234D5013}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAB319A0-709A-4B80-A7ED-24D09806C4C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAB319A0-709A-4B80-A7ED-24D09806C4C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAB319A0-709A-4B80-A7ED-24D09806C4C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAB319A0-709A-4B80-A7ED-24D09806C4C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D73F7448-2945-47DB-92E1-E802234D5013}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D73F7448-2945-47DB-92E1-E802234D5013}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D73F7448-2945-47DB-92E1-E802234D5013}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D73F7448-2945-47DB-92E1-E802234D5013}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F1A1219-F041-4A32-845F-E32B339FB11C}
+	EndGlobalSection
+EndGlobal
